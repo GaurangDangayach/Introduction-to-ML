@@ -5,4 +5,3 @@ It consists of Linear Regression, Logistic Regression, and Cluster Analysis whic
 W1A2_200373.ipynb is one of the assignments done as a part of weekend assignments by the BCS for ML. This file has questions related to linear regression.
 pclub_logistic.ipynb is the solution of the assugnment given for the 'Deep into CNNs' project.
 
-# change added git check
